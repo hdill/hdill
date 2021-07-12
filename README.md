@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @hdill
-- 👀 I’m interested in learning more about programming
-
+PS common
+Areat to share for customization and report work
 
 <!---
 hdill/hdill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
